@@ -1,0 +1,23 @@
+{
+  "name": "ngDatetimezone",
+  "version": "0.0.1",
+  "homepage": "https://github.com/molecuel/bower_ngDatetimezone",
+  "authors": [
+    "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
+  ],
+  "description": "Angular date time widget with timezone integration",
+  "keywords": [
+    "angular",
+    "datetime",
+    "date",
+    "mlcl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
