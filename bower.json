@@ -1,6 +1,6 @@
 {
   "name": "ngDatetimezone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/molecuel/bower_ngDatetimezone",
   "authors": [
     "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
@@ -12,6 +12,15 @@
     "date",
     "mlcl"
   ],
+  "dependencies": {
+    "moment-timezone": "~0.2.3",
+    "bootstrap": "~3.2.0",
+    "angular-bootstrap": "~0.11.2",
+    "angular-ui-select": "~0.8.3",
+    "select2": "~3.5.1",
+    "ngSanitize": "~0.0.2",
+    "angular-sanitize": "~1.3.0"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
